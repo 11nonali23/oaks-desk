@@ -2,19 +2,21 @@
 
 ## Why
 
-I found on Kaggle an interesting dataset regarding all 8 generations pokemon.
-So I decided to create an API to retrieve useful informations about pokemons, trying to 
-think about what gamers need to know when playing this game.
+I found on Kaggle an rich dataset regarding all 8 generations pokemon.
+I decided to create an API to retrieve useful informations about pokemons, with the goal of letting competitive players gain useful informations that other popular websites don't provide.
 
 ## Technologies
 
 #### Backend
 
-Django and django-rest-framework.
+* Django
+* django-rest-framework
+* Pipenv
 
 #### Frontend
 
-React and Tailwind CSS
+* React 
+* Tailwind CSS
 
 ## Requirements
 
@@ -22,5 +24,4 @@ React and Tailwind CSS
 * Pipenv [https://pipenv-fork.readthedocs.io/en/latest/]
 
 ## Resources
-
 * [https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420]
