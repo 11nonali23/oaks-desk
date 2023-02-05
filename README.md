@@ -3,7 +3,8 @@
 ## Why
 
 I wanted to join my passion for computer science and competitive pokemon battles. For this reason, I searched for a rich dataset regarding all 8 generations pokemon.
-I decided to create an API to retrieve useful informations about pokemons, with the goal of letting competitive players gain useful informations that other popular websites don't provide. The coolest feature is to automatically find pokemons that fully cover the type weaknesses of anohter.
+I decided to create an API to retrieve useful informations about pokemons, with the goal of letting competitive players gain useful informations that other popular websites don't provide. 
+🌟The coolest feature is to automatically find pokemons that fully cover the type weaknesses of anohter.
 
 ## Technologies
 
